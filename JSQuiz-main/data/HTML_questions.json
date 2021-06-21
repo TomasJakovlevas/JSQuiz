@@ -1,0 +1,24 @@
+[
+    {
+        "question": "What does CSS stand for?",
+        "answers": [
+          {
+            "text": "Computer Style Sheets",
+            "correct": true
+          },
+          {
+            "text": "Colorful Style Sheets",
+            "correct": false
+          },
+          {
+            "text": "Creative Style Sheets",
+            "correct": false
+          },
+          {
+            "text": "Cascading Style Sheets",
+            "correct": false
+          }
+        ]
+      }
+          
+]

@@ -1,0 +1,41 @@
+.container_choose {
+    color: white;
+    text-align: center;
+    margin-top: -200px;
+}
+
+.options {
+    width: 60%;
+    margin: 50px auto;
+    
+    display: flex;
+    justify-content: center;
+}
+
+.html_div, .css_div, .js_div{
+    height: 20px;
+    color: white;
+    padding: 20px 30px;
+}
+
+.html_div i, .css_div i, .js_div i{
+    font-size: 100px;
+}
+
+.html_div i:hover{
+    color: var(--html-color);
+}
+
+.css_div i:hover{
+    color: var(--css-color);
+}
+
+.js_div i:hover{
+    color: var(--js-color);
+}
+
+
+a{
+    text-decoration: none;
+    color: white;
+  }

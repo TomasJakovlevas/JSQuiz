@@ -1,0 +1,144 @@
+[
+    {
+        "question": "What does CSS stand for?",
+        "answers": [
+          {
+            "text": "Computer Style Sheets",
+            "correct": true
+          },
+          {
+            "text": "Colorful Style Sheets",
+            "correct": false
+          },
+          {
+            "text": "Creative Style Sheets",
+            "correct": false
+          },
+          {
+            "text": "Cascading Style Sheets",
+            "correct": false
+          }
+        ]
+      },
+
+      {
+        "question": "What is the correct HTML for referring to an external style sheet?",
+        "answers": [
+          {
+            "text": "<styl src='mystyle.css'>",
+            "correct": true
+          },
+          {
+            "text": "<stylesheet>mystyle.css</stylesheet>",
+            "correct": false
+          },
+          {
+            "text": "<link rel='stylesheet' type='text/css' href='mystyle.css'>",
+            "correct": false
+          }
+        ]
+      },
+
+      {
+        "question": "Where in an HTML document is the correct place to refer to an external style sheet?",
+        "answers": [
+          {
+            "text": "In the <body> section",
+            "correct": false
+          },
+          {
+            "text": "At the end of document",
+            "correct": false
+          },
+          {
+            "text": "In the <head> section",
+            "correct": true
+          }
+        ]
+      },
+
+      {
+        "question": "Which HTML tag is used to define an internal style sheet?",
+        "answers": [
+          {
+            "text": "<style>",
+            "correct": true
+          },
+          {
+            "text": "<script>",
+            "correct": false
+          },
+          {
+            "text": "<css>",
+            "correct": false
+          }
+        ]
+    },
+
+    {
+        "question": "Which HTML attribute is used to define inline styles?",
+        "answers": [
+          {
+            "text": "class",
+            "correct": false
+          },
+          {
+            "text": "styles",
+            "correct": false
+          },
+          {
+            "text": "font",
+            "correct": false
+          },
+          {
+            "text": "style",
+            "correct": true
+          }
+        ]
+      },
+
+      {
+        "question": "Which is the correct CSS syntax?",
+        "answers": [
+          {
+            "text": "body{color:black;}",
+            "correct": true
+          },
+          {
+            "text": "body:color=black;",
+            "correct": false
+          },
+          {
+            "text": "{body;color:black;}",
+            "correct": false
+          },
+          {
+            "text": "{body:color=color}",
+            "correct": false
+          }
+        ]
+      },
+
+
+      {
+        "question": "Which is the correct CSS syntax?",
+        "answers": [
+          {
+            "text": "body{color:black;}",
+            "correct": true
+          },
+          {
+            "text": "body:color=black;",
+            "correct": false
+          },
+          {
+            "text": "{body;color:black;}",
+            "correct": false
+          },
+          {
+            "text": "{body:color=color}",
+            "correct": false
+          }
+        ]
+      }
+]
